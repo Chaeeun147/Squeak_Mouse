@@ -4,6 +4,9 @@ I used the Bambu Squeak Mouse base kit and built around it. I customized mine to
 
 I made this because I thought it would be nice to design my own mouse, a tool I use every day, and replace my plain black one. This was also my first CAD project, and I thought this starter project would be a great way to learn CAD.
 
+Onshape Project Link:
+https://cad.onshape.com/documents/78713f6acfc2b58147f2fe75/w/c0785d79c3904b973c03c876/e/da31d8d7c956c7758828266f?renderMode=0&uiState=69e0d22f343111b7d464ba72
+
 Side-Back View:
 <img width="966" height="608" alt="Squeak SideBackView" src="https://github.com/user-attachments/assets/ef78266e-f85c-4fa0-b166-962be590490b" />
 
