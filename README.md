@@ -1,3 +1,6 @@
+<img width="4000" height="3000" alt="1000006432" src="https://github.com/user-attachments/assets/5cfcc1f9-a5cb-43db-9e63-494d55b41495" />
+
+
 Squeak mouse starter project from Hack Club's Stasis!
 
 I used the Bambu Squeak Mouse base kit and built around it. I customized mine to have my initials, a capybara logo, and ears!
